@@ -1,4 +1,4 @@
-# 3.23 Activities within Groups
+# ETI Assignment 2 - 3.23 Activities within Groups
 # Design consideration of your microservices
 The activities have been split into Conversations Service and Replies Service. There are two APIs, one database containing two tables, and one console. 
 
