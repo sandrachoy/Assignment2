@@ -30,7 +30,6 @@ type Reply struct {
 
 const conversationURL = "http://localhost:5000/api/v1/groups/conversations"
 const replyURL = "http://localhost:5000/api/v1/groups/replies"
-const key = "2c78afaf-97da-4816-bbee-9ad239abb296"
 
 var userinput = ""
 

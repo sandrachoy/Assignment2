@@ -279,6 +279,6 @@ func main() {
 	router.HandleFunc("/api/v1/groups/updateReply", updateReply).Methods("PUT")
 	router.HandleFunc("/api/v1/groups/deleteReply", deleteReply).Methods("DELETE")
 
-	fmt.Println("Listening at port 8191")
-	log.Fatal(http.ListenAndServe(":8191", router))
+	fmt.Println("Listening at port 9192")
+	log.Fatal(http.ListenAndServe(":9192", router))
 }

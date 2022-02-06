@@ -12,6 +12,6 @@ COPY *.go ./
 
 RUN go build -o /etiasg2
 
-EXPOSE 8190
+EXPOSE 9190
 
 CMD [ "/etiasg2" ]
