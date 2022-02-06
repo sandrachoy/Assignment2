@@ -110,14 +110,14 @@ The console is the frontend which allows the user to input and call the services
 ![Untitled Diagram (1)](https://user-images.githubusercontent.com/64128624/152691608-3b850362-1d6b-4fce-9519-a906f5b9a02b.jpg)
 
 # Link to your container image
-https://hub.docker.com/repository/docker/s10175863/assignment2
-https://hub.docker.com/repository/docker/s10175863/assignment2_replies
+https://hub.docker.com/repository/docker/s10175863/assignment2 <br/>
+https://hub.docker.com/repository/docker/s10175863/assignment2_replies <br/>
 https://hub.docker.com/repository/docker/s10175863/assignment2_console
 
 # Instructions for setting up and running your microservices
 1. Clone the Repository
 2. Create the database
 
-docker pull s10175863/assignment2
-docker pull s10175863/assignment2_replies
-docker pull s10175863/assignment2_console
+docker pull s10175863/assignment2:latest<br>
+docker pull s10175863/assignment2_replies:latest<br/>
+docker pull s10175863/assignment2_console:latest<br/>
