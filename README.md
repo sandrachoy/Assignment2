@@ -117,3 +117,7 @@ https://hub.docker.com/repository/docker/s10175863/assignment2_console
 # Instructions for setting up and running your microservices
 1. Clone the Repository
 2. Create the database
+
+docker pull s10175863/assignment2
+docker pull s10175863/assignment2_replies
+docker pull s10175863/assignment2_console
